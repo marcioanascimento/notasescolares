@@ -1,0 +1,135 @@
+/*Geral*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Menu de navegação */
+
+.logo{
+    padding-left:0;
+    padding-right: 0;
+}
+
+.logotipo {
+    background-color: #6C63FF;
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+}
+
+img {
+    width: 60%;
+    margin-left: 20%;
+    padding: 1rem 0;
+}
+
+.btn-group-vertical {
+    margin-left: 17%;
+}
+
+.btn {
+    color: #FFF;
+    background-color: #6C63FF;
+    margin-bottom: 2rem;
+    padding: 0.7rem 5rem;
+    transition: 0.7s all;
+}
+
+.btn:hover {
+    color: #FFF;
+    background-color: #48C0DA;
+    box-shadow:2px 4px #020202aa;
+}
+
+/* Lançamento das notas */
+h2 {
+    border: 1px solid #878B8C;
+    border-radius: 10px;
+    color: #878B8C;
+    text-align: center;
+    padding: 0.5rem 0;
+    margin: 2rem 4rem 0 4rem;
+}
+
+.cadastro {
+    margin: 1.8rem 4rem 0 4rem;
+}
+
+.navegacao {
+    border: 1px solid;
+    border-left-color: #878B8C;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+/* Semestres */
+.semestre {
+    color: #6C63FF;
+    border: 1px solid #6C63FF;
+    border-radius: 10px;
+    margin-top: 1.5rem;
+    padding: 0.5rem 1rem;
+}
+
+.disciplinas {
+    width: 11%;
+    margin-right: 1.5rem;
+    outline: none;
+    border: 1px solid #6C63FF;
+    border-radius: 4px;
+}
+
+.titulo-semestre-tab {
+    text-align: right;
+}
+
+.primeiro-semestre {
+    color: #6C63FF;
+    font-weight: bold;
+    margin-right: 16%;
+    text-transform: uppercase;
+}
+
+.segundo-semestre {
+    color: #48C0DA;
+    font-weight: bold;
+    margin-right: 10%;
+    text-transform: uppercase;
+}
+
+.btn-notas1 {
+    margin: .5rem 4rem 0 4rem;
+    color: #FFF;
+    background-color: #6C63FF;
+    padding: 0.5rem 3rem;
+    border: 1px solid #6C63FF;
+    border-radius: 4px;
+    transition: 0.7s all;
+}
+
+.btn-notas1:hover {
+    color: #FFF;
+    background-color: #48C0DA;
+    border: 1px solid #48c0da;
+    box-shadow:2px 4px #020202aa;
+}
+
+/* tabela */
+
+.dados {
+    margin-top: 1.5rem;
+}
+
+.tb-daddos {
+    color: #878B8C;
+}
+
+.semestre1 {
+    color: #6C63FF;
+}
+
+.semestre2 {
+    color: #48C0DA;
+}
